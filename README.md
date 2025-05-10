@@ -2,6 +2,9 @@
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
+This demo is from:
+https://appwrite.io/docs/references/quick-start 
+
 ## Get started
 
 1. Install dependencies
